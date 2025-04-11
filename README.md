@@ -27,27 +27,6 @@ The dataset used in this project is the **Netflix Movies and TV Shows** dataset,
 - `listed_in`
 - `description`
 
-## Installation
-
-1. Clone the repository:
-```bash
-https://github.com/yourusername/netflix-data-analysis.git
-cd netflix-data-analysis
-```
-
-2. Install dependencies:
-```bash
-pip install pandas matplotlib seaborn jupyterlab
-```
-
-## Usage
-
-1. Run the Jupyter Notebook or Python script to perform the analysis:
-```bash
-jupyter lab
-```
-2. Open `netflix_analysis.ipynb` or run `week1.py` to see the outputs and visualizations.
-
 ## Key Learnings
 
 - Cleaning messy data (e.g., handling spaces in dates)
