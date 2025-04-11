@@ -72,6 +72,6 @@ Feel free to fork the repository, contribute, and explore the world of data anal
 ## Author
 
 Your Name  
-LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-GitHub: [Your GitHub](https://github.com/yourusername)
+LinkedIn: [Your LinkedIn](https://linkedin.com/in/aryanpatel2307)  
+GitHub: [Your GitHub](https://github.com/ElonMusk15)
 
