@@ -69,9 +69,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Feel free to fork the repository, contribute, and explore the world of data analysis!
 
-## Author
 
-Your Name  
-LinkedIn: [Your LinkedIn](https://linkedin.com/in/aryanpatel2307)  
-GitHub: [Your GitHub](https://github.com/ElonMusk15)
 
