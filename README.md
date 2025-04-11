@@ -67,7 +67,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Feel free to fork the repository, contribute, and explore the world of data analysis!
+
 
 
 
